@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Generics">
+    <Position X="1.292" Y="0.5" Height="0.291" Width="0.7" />
+  </Comment>
+  <Comment CommentText="    Files">
+    <Position X="5.177" Y="0.5" Height="0.291" Width="0.7" />
+  </Comment>
+  <Comment CommentText="Repository">
+    <Position X="11.104" Y="0.5" Height="0.291" Width="0.773" />
+  </Comment>
+  <Comment CommentText="   Utility">
+    <Position X="17.219" Y="0.5" Height="0.291" Width="0.7" />
+  </Comment>
+  <Class Name="Oiski.Common.Generics.Converter">
+    <Position X="0.5" Y="1" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Generics\Converter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Oiski.Common.Files.FileHandler">
+    <Position X="4.5" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AABIAAAAAAAEAAAIEQAAAAQAAAAAAAEAAABAAAEAAAA=</HashCode>
+      <FileName>Files\FileHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Oiski.Common.Repository.IMyRepository&lt;EntityType, SaveType&gt;">
+    <Position X="8.25" Y="1" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEEAAAAAAAAAAAAAAAAAgAAEAAAAAAABAAAAA=</HashCode>
+      <FileName>Repository\IMyRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Oiski.Common.Repository.IMyRepositoryEntity&lt;IDType, SaveType&gt;">
+    <Position X="12" Y="1" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAQAAAAABAAAA=</HashCode>
+      <FileName>Repository\IMyRepositoryEntity.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Oiski.Common.Utility.IMyPropertyAccessor">
+    <Position X="16.75" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAABAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utility\IMyPropertyAccessor.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
